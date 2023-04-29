@@ -1,0 +1,15 @@
+{
+  "name": "testcase2",
+  "version": "1.0.0",
+  "description": "pckg2",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "masud osman",
+  "license": "ISC",
+  "dependencies": {
+    "test": "file:../pkg1"
+  }
+}
